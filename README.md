@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jose254W/jose254w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a software developer with a passion for creating beautiful, intuitive, and user-friendly web applications. I enjoy working on open source projects and contributing to the developer community. I have experience working with a variety of programming languages and technologies, including JavaScript, React, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I'm Learning
+
+I'm always looking to expand my knowledge and learn new things. Currently, I'm focusing on:
+
+- Advanced React patterns and techniques
+- Functional programming concepts in JavaScript
+- Graphql and postgress 
+-Go language
+
+### 🤝 Get in Touch
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me at [LinkedIn](https:linkedin.com/in/joseph-waweru-628142260). Let's build something great together! 🚀
