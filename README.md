@@ -10,9 +10,9 @@ I'm always looking to expand my knowledge and learn new things. Currently, I'm f
 
 - Advanced React patterns and techniques
 - Functional programming concepts in JavaScript
-- Graphql and postgress 
+- Graphql and postgress
 -Go language
 
 ### 🤝 Get in Touch
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me at [LinkedIn](https:linkedin.com/in/joseph-waweru-628142260). Let's build something great together! 🚀
+I'm always open to new opportunities and collaborations. Feel free to reach out to me at [LinkedIn]([https:linkedin.com/in/joseph-waweru-628142260])). Let's build something great together! 🚀
