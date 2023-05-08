@@ -16,3 +16,5 @@ I'm always looking to expand my knowledge and learn new things. Currently, I'm f
 ### 🤝 Get in Touch
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me at [LinkedIn](https:linkedin.com/in/joseph-waweru-628142260). Let's build something great together! 🚀
+
+![GitHub package.json version](https:[//img.shields.io/github/package-json/v/username/repository?color=green](https://shields.io./github/package-json/v/jose254W/all))
