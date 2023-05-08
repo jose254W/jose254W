@@ -17,4 +17,4 @@ I'm always looking to expand my knowledge and learn new things. Currently, I'm f
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me at [LinkedIn](https:linkedin.com/in/joseph-waweru-628142260). Let's build something great together! 🚀
 
-https://img.shields.io/github/package-json/v/jose254W/all?color=green
+
